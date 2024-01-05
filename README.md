@@ -85,8 +85,10 @@ Pre-trained model used in this project:
 
 These additional steps guide users on installing necessary dependencies and running the Streamlit app directly from the terminal.
 
-## Demonstration
 
+## Demonstration
+![image](https://github.com/Phatd299/Car-Care-Hub/assets/110618138/215a84b6-c57d-4afb-b186-e0e1008e4bc9)
+*Caption: Module 1 demonstration*
 
 
 ## 🤝 Contribution
