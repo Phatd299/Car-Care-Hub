@@ -17,10 +17,8 @@ Integrated_Car_Care_Platform/
 │   ├── car_acceptability/               # Dataset for Car Acceptability Testing
 │   ├── car_engine/                      # Dataset for Car Engine Predictive Maintenance
 │   ├── car_maintenance/                 # Dataset for Car Maintenance Cost Prediction
-│   └── imgs.zip                         # Dataset for Car Brand Image Classification   
 │
 ├── models/
-│   ├── car_brand_model/                 # Saved models for Car Brand Image Classification
 │   ├── car_accept.joblib                # Saved models for Car Acceptability Testing
 │   ├── car_engine.joblib                # Saved models for Car Engine Predictive Maintenance
 │   └── car_maintenance.joblib           # Saved models for Car Maintenance Cost Prediction
@@ -32,7 +30,6 @@ Integrated_Car_Care_Platform/
 │   └── car_maintenance.ipynb            # Jupyter notebook for Car Maintenance Cost Prediction
 │
 ├── src/
-│   ├── car_brand_classification/        # Scripts for Car Brand Image Classification
 │   ├── car_acceptability_testing/       # Scripts for Car Acceptability Testing
 │   ├── car_engine_maintenance/          # Scripts for Car Engine Predictive Maintenance
 │   └── car_maintenance_cost/            # Scripts for Car Maintenance Cost Prediction
