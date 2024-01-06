@@ -70,12 +70,14 @@ Pre-trained model used in this project:
     
 3. **Installation of Requirements**:
     - Download required libraries by running: `pip install -r requirements.txt` in your terminal.
+   
     ```
     pip install -r requirements.txt
     ```
 
 4. **Launching the Streamlit App**:
     - Open your terminal and run: `streamlit run app.py` to start the application.
+   
     ```
     streamlit run app.py
     ```
